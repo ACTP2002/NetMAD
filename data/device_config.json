@@ -1,0 +1,25 @@
+{
+    "devices": [
+      {
+        "device_id": "SW1",
+        "device_type": "switch"
+      },
+      {
+        "device_id": "SW2",
+        "device_type": "switch"
+      },
+      {
+        "device_id": "SW3",
+        "device_type": "switch"
+      },
+      {
+        "device_id": "RTR1",
+        "device_type": "router"
+      },
+      {
+        "device_id": "RTR2",
+        "device_type": "router"
+      }
+    ]
+  }
+  
